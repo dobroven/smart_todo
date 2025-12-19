@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Полить цветы",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Покормить кота",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Купить хлеб",
+    "completed": true
+  }
+]
